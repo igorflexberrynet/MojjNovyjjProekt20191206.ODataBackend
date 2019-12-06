@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="IIS.Mojj_novyjj_proekt_20191206.Global" Language="C#" %>
